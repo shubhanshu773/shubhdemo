@@ -1,3 +1,4 @@
 # shubhdemo
 This is my first git repository.
-<P>Author- Shubhanshu Rai<p>
+<Br>
+Author- Shubhanshu Rai (TCS) <Br>
